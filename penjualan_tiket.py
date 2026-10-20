@@ -13,6 +13,7 @@ else :
     harga_tiket = 500000
 
 jumlah = int(input("Masukkan Jumlah Beli : "))
+
 if jumlah >= 3:
     potongan = (jumlah*harga_tiket) * 0.1
 else :
