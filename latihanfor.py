@@ -5,4 +5,4 @@ for i in range(ulang):
     uts = int(input("Masukkan Nilai UTS: "))
     uas = int(input("Masukkan Nilai UAS: "))
     print("Nim anda adalah %s nilai uts anda %i nilai uas anda %i" % (nim, uts, uas))
-    print("--------------------------------")
+    print("--------------------------------\n")
